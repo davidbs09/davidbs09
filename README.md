@@ -1,10 +1,10 @@
 ## Olá, eu sou David Bissaco.
 
-💻 Desenvolvedor Fullstack | Foco em Java, Spring Boot, Git, HTML, CSS, JavaScript, TypeScript e Angular.
+💻 Desenvolvedor Fullstack | Foco em Java, Spring Boot, NodeJS, JavaScript, Angular, TypeScript, PostgreSQL, Git, HTML e CSS.
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas (4/5) – UniCesumar
+🎓 Graduando em Análise e Desenvolvimento de Sistemas (5/5) – UniCesumar
 
-🚀 Apaixonado por tecnologia e desenvolvimento, atualmente estou estudando TypeScript, Node.js e PostgreSQL para expandir minhas habilidades em desenvolvimento backend.
+🚀 Apaixonado por tecnologia e desenvolvimento, atualmente estou estudando Docker e AWS para expandir minhas habilidades em desenvolvimento fullstack.
 
 🌐 Aberto para networking e oportunidades na área de desenvolvimento.
 
