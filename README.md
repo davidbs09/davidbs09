@@ -79,12 +79,14 @@ Sou uma pessoa comunicativa, comprometida, proativa, adaptável e pontual.
 
 ### ✉️ Entre em contato comigo!
 
-<a href="https://www.linkedin.com/in/david-bissaco-da-silva/" target="_blank">
-  <img align="center" alt="David-Linkedin" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a> &nbsp;
-<a href="mailto:davidbissacodasilva@gmail.com" target="_blank" style="display: inline-block;">
-  <img align="center" alt="David-Gmail" height="58" width="70" src="https://www.svgrepo.com/show/452213/gmail.svg" />
-</a> &nbsp;
-<a href="https://davidbissaco.netlify.app/" target="_blank">
-  <img align="center" alt="David-Portfólio" height="50" width="70" src="https://svgsilh.com/svg/1873373.svg" style="filter: invert(32%) sepia(99%) saturate(7492%) hue-rotate(185deg) brightness(95%) contrast(101%);" />
-</a> &nbsp;
+<a href="https://www.linkedin.com/in/david-bissaco-da-silva/" target="_blank" title="LinkedIn">
+  <img align="center" alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+&nbsp;
+<a href="mailto:davidbissacodasilva@gmail.com" target="_blank" title="Enviar email">
+  <img align="center" alt="Gmail" height="45" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+&nbsp;
+<a href="https://davidbissaco.netlify.app/" target="_blank" title="Portfólio">
+  <img align="center" alt="Portfólio" height="40" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />
+</a>
