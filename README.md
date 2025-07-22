@@ -49,7 +49,7 @@ Sou uma pessoa comunicativa, comprometida, proativa, adaptável e pontual.
 
 ### 🌐 Idiomas
 
-- Inglês ( B1 Intermediário )
+- Inglês ( Intermediário )
 
 ---
 
