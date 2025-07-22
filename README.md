@@ -16,7 +16,7 @@ Sou uma pessoa comunicativa, comprometida, proativa, adaptável e pontual.
 
 ---
 
-### 📚 Skills
+### 📚 Tecnologias
 <div flex-direction="row">
 <img align="center" alt="David-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;
 <img align="center" alt="David-Spring" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> &nbsp;
