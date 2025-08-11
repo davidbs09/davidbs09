@@ -2,15 +2,15 @@
 
 ### <u>Sobre mim</u>
 
-Sou uma pessoa comunicativa, comprometida, proativa, adaptável e pontual.
+Sou uma pessoa comunicativa, comprometida, proativa e adaptável.
 
 💻 **Desenvolvedor Fullstack** com foco em Java, Spring Boot, Node.js, Angular, JavaScript, TypeScript, PostgreSQL, Git, HTML e CSS.
 
-💼 Atualmente trabalho como **Estagiário Superior de TI** na Previdência Social de Suzano e também atuo como freelancer, sempre buscando soluções que façam diferença para empresas da minha região.
+💼 Hoje trabalho como Desenvolvedor de Software Freelancer sempre buscando soluções que façam diferença para empresas da minha região. Estou participando do Bootcamp Santander 2025 e aprimorando minhas habilidades com Java e Desenvolvimento Backend.
 
-🎓 Cursando Análise e Desenvolvimento de Sistemas (5/5) – UniCesumar
+🎓 Formado em Análise e Desenvolvimento de Sistemas (5/5 - 01/23 até 07/25) – UniCesumar EAD
 
-🚀 No momento, estou aprofundando meus conhecimentos em TypeScript e Node.js para expandir minhas habilidades em desenvolvimento fullstack, além de iniciar estudos em AWS e Docker.
+🚀 No momento estou aprofundando meus conhecimentos com AWS e Docker para expandir minhas habilidades em desenvolvimento fullstack.
 
 🌐 Estou aberto para networking e oportunidades na área de desenvolvimento.
 
