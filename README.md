@@ -68,7 +68,7 @@ Sou uma pessoa comunicativa, comprometida, proativa, adaptável e pontual.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbs09&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=20&count_private=true&hide=html,jupyter%20notebook" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbs09&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=20&count_private=true" 
   />
 </p>
 
