@@ -4,7 +4,7 @@
 
 Sou uma pessoa comunicativa, comprometida, proativa e adaptável.
 
-💻 **Desenvolvedor Fullstack** com foco em Java, Spring Boot, Node.js, Angular, JavaScript, TypeScript, PostgreSQL, Git, HTML e CSS.
+💻 **Desenvolvedor Fullstack** com foco em Java, Spring Boot, JavaScript, Node.js, Angular, TypeScript, PostgreSQL, Docker, Git, HTML e CSS.
 
 💼 Hoje trabalho como Desenvolvedor de Software Freelancer sempre buscando soluções que façam diferença para empresas da minha região. Estou participando do Bootcamp Santander 2025 e aprimorando minhas habilidades com Java e Desenvolvimento Backend.
 
