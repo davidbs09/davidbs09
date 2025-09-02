@@ -4,9 +4,9 @@
 
 Sou uma pessoa comunicativa, comprometida, proativa e adaptável.
 
-💻 **Desenvolvedor Fullstack** com foco em Java, Spring Boot, JavaScript, Node.js, Angular, TypeScript, PostgreSQL, Docker, Git, HTML e CSS.
+💻 **Desenvolvedor Fullstack** com conhecimento em Java, Spring Boot, PHP, Node.js, Angular, Ionic, JavaScript, TypeScript, PostgreSQL, Docker, Git, HTML e CSS.
 
-💼 Hoje trabalho como Desenvolvedor de Software Freelancer sempre buscando soluções que façam diferença para empresas da minha região. Estou participando do Bootcamp Santander 2025 e aprimorando minhas habilidades com Java e Desenvolvimento Backend.
+💼 Hoje trabalho como Desenvolvedor Mobile na SIS Informática sempre buscando soluções e construindo aplicações robustas e escaláveis.
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas (5/5 - 01/23 até 07/25) – UniCesumar EAD
 
