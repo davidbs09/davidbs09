@@ -6,7 +6,7 @@ Sou uma pessoa comunicativa, comprometida, proativa e adaptável.
 
 💻 **Desenvolvedor Fullstack** com conhecimento em Java, Spring Boot, PHP, Node.js, Angular, Ionic, JavaScript, TypeScript, PostgreSQL, Docker, Git, HTML e CSS.
 
-💼 Hoje trabalho como Desenvolvedor Mobile Junior na SIS Informática sempre buscando soluções e construindo aplicações robustas e escaláveis.
+💼 Hoje trabalho como Desenvolvedor Mobile Junior na SIS Informática construindo aplicações robustas e escaláveis.
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas (5/5 - 01/23 até 07/25) – UniCesumar EAD
 
