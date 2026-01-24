@@ -1,91 +1,107 @@
-## 👋🏻 Olá, eu sou David Bissaco.
+<h2 align="left">👋 Olá, eu sou David Bissaco.</h2>
 
-### <u>Sobre mim</u>
+<h3 align="left">Sobre mim</h3>
 
-Sou uma pessoa comunicativa, comprometida, proativa e adaptável.
+###
 
-💻 **Desenvolvedor Fullstack** com conhecimento em Java, Spring Boot, PHP, Node.js, Angular, Ionic, JavaScript, TypeScript, PostgreSQL, Docker, Git, HTML e CSS.
+<p align="left">Sou uma pessoa comunicativa, comprometida, proativa e adaptável.<br><br>💻 Desenvolvedor Fullstack com conhecimento em Java, Spring Boot, PHP, Node.js, Angular, Ionic, JavaScript, TypeScript, PostgreSQL, Docker, Git, HTML e CSS.<br><br>💼 Hoje trabalho como Desenvolvedor Mobile Junior na SIS Informática construindo aplicações de maneira escalável e robusta.<br><br>🎓 Formado em Análise e Desenvolvimento de Sistemas (5/5 - 01/23 até 07/25) – UniCesumar EAD<br><br>🚀 No momento estou aprofundando meus conhecimentos com AWS e Docker para expandir minhas habilidades em desenvolvimento fullstack.<br><br>🌐 Estou aberto para networking e oportunidades na área de desenvolvimento.</p>
 
-💼 Hoje trabalho como Desenvolvedor Mobile Junior na SIS Informática construindo aplicações de maneira escalável e robusta.
+###
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas (5/5 - 01/23 até 07/25) – UniCesumar EAD
+<br clear="both">
 
-🚀 No momento estou aprofundando meus conhecimentos com AWS e Docker para expandir minhas habilidades em desenvolvimento fullstack.
+<img src="https://raw.githubusercontent.com/davidbs09/davidbs09/output/snake.svg" alt="Snake animation" />
 
-🌐 Estou aberto para networking e oportunidades na área de desenvolvimento.
+###
 
----
+<h2 align="left">📚 Tecnologias</h2>
 
-### 📚 Tecnologias
-<div flex-direction="row">
-<img align="center" alt="David-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;
-<img align="center" alt="David-Spring" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" /> &nbsp;
-<img align="center" alt="David-Node.js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> &nbsp;
-<img align="center" alt="David-JavaScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;
-<img align="center" alt="David-Angular" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> &nbsp;
-<img align="center" alt="David-TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> &nbsp;
-<img align="center" alt="David-PostgreeSQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> &nbsp;
-<img align="center" alt="David-MySQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> &nbsp;
-<img align="center" alt="David-Html" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;
-<img align="center" alt="David-Css" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-<br>
 
----
+###
 
-### 🛠️ Ferramentas
-<div flex-direction="row">
-<img align="center" alt="David-jUnit" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" /> &nbsp;
-<img align="center" alt="David-Docker" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> &nbsp;
-<img align="center" alt="David-Git" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> &nbsp;
-<img align="center" alt="David-GitHub" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="filter: invert(38%) sepia(98%) saturate(7492%) hue-rotate(245deg) brightness(90%) contrast(101%);" /> &nbsp;
-<img align="center" alt="David-IntelliJ" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> &nbsp;
-<img align="center" alt="David-VSCode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> &nbsp;
-<img align="center" alt="David-Postman" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" /> &nbsp;
-<img align="center" alt="David-Notion" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> &nbsp;
-<br>
+<h2 align="left">🛠️ Ferramentas</h2>
 
----
+###
 
-### 🌐 Idiomas
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/insomnia/5E00D3" height="40" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo"  />
+</div>
 
-- Inglês ( Intermediário )
+###
 
----
+<h2 align="left">🌐 Idiomas</h2>
 
-### 📊 Estatísticas
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=davidbs09&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br" 
-  />
+<p align="left">Inglês ( Intermediário )</p>
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidbs09&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=20&count_private=true" 
-  />
-</p>
+###
 
-<br clear="all"/>
+<h2 align="left">📊 Estatísticas</h2>
 
----
+###
 
-### ✉️ Entre em contato comigo!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidbs09&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davidbs09&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<a href="https://www.linkedin.com/in/david-bissaco-da-silva/" target="_blank" title="LinkedIn">
-  <img align="center" alt="LinkedIn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-&nbsp;
-<a href="mailto:davidbissacodasilva@gmail.com" target="_blank" title="Enviar email">
-  <img align="center" alt="Gmail" height="45" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-&nbsp;
-<a href="https://davidbissaco.netlify.app/" target="_blank" title="Portfólio">
-  <img align="center" alt="Portfólio" height="40" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />
-</a>
+###
+
+<h2 align="left">✉️ Entre em contato comigo!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/david-bissaco-da-silva/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:davidbissacodasilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
