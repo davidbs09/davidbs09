@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Sou uma pessoa comunicativa, comprometida, proativa e adaptável.<br><br>💻 Desenvolvedor Fullstack com conhecimento em Java, Spring Boot, PHP, Node.js, Angular, Ionic, JavaScript, TypeScript, PostgreSQL, Docker, Git, HTML e CSS.<br><br>💼 Hoje trabalho como Desenvolvedor Mobile Junior na SIS Informática construindo aplicações de maneira escalável e robusta.<br><br>🎓 Formado em Análise e Desenvolvimento de Sistemas (5/5 - 01/23 até 07/25) – UniCesumar EAD<br><br>🚀 No momento estou aprofundando meus conhecimentos com AWS e Docker para expandir minhas habilidades em desenvolvimento fullstack.<br><br>🌐 Estou aberto para networking e oportunidades na área de desenvolvimento.</p>
+<p align="left">Sou uma pessoa comunicativa, comprometida, proativa e adaptável.<br><br>💻 Desenvolvedor Fullstack com conhecimento em Java, Spring Boot, PHP, Node.js, Angular, Ionic, JavaScript, TypeScript, PostgreSQL, Docker, Git, HTML e CSS.<br><br>💼Atualmente trabalho como Desenvolvedor Mobile Júnior na SIS Informática, sendo responsável pelo desenvolvimento, manutenção e evolução das aplicações da empresa, sempre com foco em escalabilidade, robustez e qualidade de código.<br><br>🎓 Formado em Análise e Desenvolvimento de Sistemas (5/5 - 01/23 até 07/25) – UniCesumar EAD<br><br>🚀 No momento, estou aprofundando meus conhecimentos em AWS e Docker, com o objetivo de expandir minha atuação em desenvolvimento fullstack e arquitetura de aplicações.<br><br>🌐 Estou aberto para networking e oportunidades na área de desenvolvimento.</p>
 
 ###
 
